@@ -6,7 +6,7 @@ Description: an example of procedural code to run a small computer resale shop,
      Author: R. Jordan Crouser (@jcrouser)
        Date: 11 September 2022
        
-       Note: YOU DO NOT NEED TO MODIFY THIS FILE
+       Note: YOU DO NOT NEED TO MODIFY THIS FILE.
 """
 # Import a few useful containers from the typing module
 from typing import Dict, Union, Optional
